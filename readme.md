@@ -14,7 +14,7 @@ Details about services
 - This project is to be deployed on docker, each project has Dockerfile. See Deployment steps to know in detail.
 - It has maven as build tool.
 
-###Deployment steps*
+### Deployment steps*
 
 - For all services/projects it has its own Dockerfile to build a docker image.
 - To build a docker image 
@@ -27,4 +27,4 @@ Details about services
 
 *read about basic docker(docker compose) concepts to understand given below steps.
 
-**If we have single service we can deploy/run with separate container, as we have multiple services and which should be in single network, we will use docker compose. 
+**If we have single service we can deploy/run with separate container, as we have multiple services and which should be in single network, we will use docker compose.
