@@ -5,7 +5,8 @@ Spring Microservice Architecture Sample Project
 - Service Registry
 - Employee-service
 - Department-service
-- Hystrix-Dashboard
+- Hystrix-Dashboard 
+
   Hystrix service is available at http://localhost:9090/hystrix/monitor, add the stream url as gateway:8888/actuator/hystrix.stream
   to get the metrics on dashboard.
 
